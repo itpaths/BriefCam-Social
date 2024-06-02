@@ -1,0 +1,14 @@
+.app-toolbar {
+  padding: 8px;
+  justify-content: space-between;
+}
+
+.app-title {
+  text-align: center;
+  line-height: 1;
+}
+
+.app-title.main {
+  text-transform: uppercase;
+  font-weight: bold;
+}
